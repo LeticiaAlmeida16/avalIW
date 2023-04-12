@@ -1,0 +1,18 @@
+body{
+    background-color: tomato;
+}
+header{
+    background-color: darksalmon;
+    text-align: center;
+}
+.banner{
+    width: 100%;
+}
+.container{
+    background-color: indianred;
+    width: 80%;
+    margin: auto;
+}
+footer{
+    background-color: darksalmon;
+}
